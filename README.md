@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/sheharyar-ishfaq"><img src="assets/header.svg" width="100%" alt="Sheharyar. Software engineer working on AI systems. MSc Computer Science at Sorbonne Université, previously Lead Software Engineer at Mavera."></a>
+<a href="https://www.linkedin.com/in/sheharyar-ishfaq"><img src="assets/banner-agent-trace.svg" width="100%" alt="Sheharyar. Software engineer working on AI systems. MSc Computer Science at Sorbonne Université, previously Lead Software Engineer at Mavera."></a>
 
 <p align="center">
   <b>Open to a 6-month end-of-studies internship in Paris, starting February 2027.</b><br>
