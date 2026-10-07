@@ -19,6 +19,7 @@ I build backend and AI systems: LLM agents, RAG pipelines and the infrastructure
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [bina-ai](https://github.com/sheharyarIshfaq/bina-ai) | 1st place at the Mistral LLM x Law Hackathon. Turns CNIL data-breach sanctions into funding briefs and checks every quote against the source. | TypeScript, Express, Mistral API |
 | [birdclef-2026-classical-ml](https://github.com/sheharyarIshfaq/birdclef-2026-classical-ml) | Identifies 206 wildlife species from audio using hand-engineered features and no neural networks. 0.922 macro ROC-AUC. | Python, scikit-learn, librosa |
 | [pacc-labs](https://github.com/sheharyarIshfaq/pacc-labs) | CPU, GPU and cluster optimization labs, measured on the LIP6 Dalek cluster. | C, CUDA, MPI |
 | [tornado-prediction-ml](https://github.com/sheharyarIshfaq/tornado-prediction-ml) | Predicts tornadoes from ERA5 weather data, comparing Random Forest, 1D CNN and LSTM models. | Python, TensorFlow |
