@@ -2,6 +2,7 @@
 
 <p align="center">
   <b>Open to a 6-month end-of-studies internship in Paris, starting February 2027.</b><br>
+  <a href="https://sheharyarishfaq.com">sheharyarishfaq.com</a> ·
   <a href="https://www.linkedin.com/in/sheharyar-ishfaq">LinkedIn</a> ·
   <a href="https://medium.com/@sheharyarishfaq">Medium</a>
 </p>
